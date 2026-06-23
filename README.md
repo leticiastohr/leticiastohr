@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👩🏻‍💻 Leticia Stohr
+**`Aspiring Data Analyst | Python | SQL | Power BI`**
 
-<!--
-**leticiastohr/leticiastohr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Oie! Meu nome é Letícia Rossetto Stohr, sou do Rio de Janeiro e tualmente, curso Ciência da Computaçãotenho interesse em desenvolvimento de software, tecnologia e análise de dados. Aqui compartilho meus projetos, estudos e aprendizados ao longo da minha trajetória na área de tecnologia.
 
-Here are some ideas to get you started:
+----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👾 Linguagens e Tecnologias
+
+<img
+  align="left" 
+  alt="SQL" 
+  title="SQL"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
+/>
+<img 
+  align="left" 
+  alt="PYTHON" 
+  title="PYTHON"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+          
+          
