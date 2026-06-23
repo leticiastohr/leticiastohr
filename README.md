@@ -1,8 +1,7 @@
 # 👩🏻‍💻 Leticia Stohr
 **`Aspiring Data Analyst | Python | SQL | Power BI`**
 
-Oie! Meu nome é Letícia Rossetto Stohr, sou do Rio de Janeiro e tualmente, curso Ciência da Computaçãotenho interesse em desenvolvimento de software, tecnologia e análise de dados. Aqui compartilho meus projetos, estudos e aprendizados ao longo da minha trajetória na área de tecnologia.
-
+Oi! Meu nome é Letícia Rossetto Stohr, sou do Rio de Janeiro e atualmente curso Ciência da Computação. Tenho interesse em desenvolvimento de software, tecnologia e análise de dados. Aqui compartilho meus projetos, estudos e aprendizados ao longo da minha trajetória na área de tecnologia.
 ----
 
 ### 👾 Linguagens e Tecnologias
